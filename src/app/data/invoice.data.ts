@@ -1,9 +1,9 @@
 import { Invoice } from "../model/Invoice";
 
-export const invoice: Invoice = {
+export const invoiceData: Invoice = {
     id: "001",
     company: {
-        ruc: "0011754772778",
+        ruc: "1754772778",
         name: "ClearmindsConsultores",
         addresd: {
             city: "Quito",
